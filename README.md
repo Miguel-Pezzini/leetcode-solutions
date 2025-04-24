@@ -6,9 +6,10 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 
 ## 📊 Progress
 
-| #  | Title                           | Difficulty | Language    | Link                                      |
-|----|---------------------------------|------------|-------------|-------------------------------------------|
-| 1  | Merge Two Sorted Lists            | Easy       | C++        | [View Solution](easy/merge-two-sorted-lists.md) |
+| #  | Title                                | Difficulty | Language    | Link                                            |
+|----|--------------------------------------|------------|-------------|-------------------------------------------------|
+| 1  | Merge Two Sorted Lists               |    Easy    |     C++     | [View Solution](easy/merge-two-sorted-lists.md) |
+| 2  | Count Complete Subarrays in an Array |   Medium   |     C++     | [View Solution](medium/count-complete-subarrays-in-an-array.md) |
 
 ---
 
