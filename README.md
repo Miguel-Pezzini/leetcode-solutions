@@ -8,9 +8,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 
 | #  | Title                           | Difficulty | Language    | Link                                      |
 |----|---------------------------------|------------|-------------|-------------------------------------------|
-| 1  | Two Sum                         | Easy       | JavaScript  | [View Solution](easy/two-sum.md)          |
-| 2  | Add Two Numbers                 | Medium     | Java        | [View Solution](medium/add-two-numbers.md)|
-| 3  | Merge k Sorted Lists            | Hard       | Java        | [View Solution](hard/merge-k-sorted-lists.md) |
+| 1  | Merge Two Sorted Lists            | Easy       | C++        | [View Solution](easy/merge-two-sorted-lists.md) |
 
 ---
 
