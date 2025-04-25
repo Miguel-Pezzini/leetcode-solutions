@@ -35,7 +35,7 @@ prefix[right]                    // if left == 0
 
 ## 🔍 Complexity
 
-- **Time:** O(n) for the constructor and 0(n) for the function sumRange (due to prefix sum Array)
+- **Time:** O(n) for the constructor and O(1) for the function sumRange (due to prefix sum Array)
 - **Space:** O(n) as we have to create a new array for the sum prefix
 
 ---
