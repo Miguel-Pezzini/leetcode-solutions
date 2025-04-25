@@ -9,7 +9,8 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | #  | Title                                | Difficulty |   Language  | Link                                            |
 |----|--------------------------------------|------------|-------------|-------------------------------------------------|
 | 1  | Merge Two Sorted Lists               |    Easy    |     C++     | [View Solution](easy/merge-two-sorted-lists.md) |
-| 2  | Count Complete Subarrays in an Array |   Medium   |     C++     | [View Solution](medium/count-complete-subarrays-in-an-array.md) |
+| 2  | Range Sum Query - Immutable          |    Easy    |     C++     | [View Solution](easy/303-range-sum-query-immutable.md) |
+| 3  | Count Complete Subarrays in an Array |   Medium   |     C++     | [View Solution](medium/count-complete-subarrays-in-an-array.md) |
 
 ---
 
