@@ -11,7 +11,7 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | 1  | Merge Two Sorted Lists               |    Easy    |     C++     | [View Solution](easy/merge-two-sorted-lists.md) |
 | 2  | Range Sum Query - Immutable          |    Easy    |     C++     | [View Solution](easy/303-range-sum-query-immutable.md) |
 | 3  | Count Complete Subarrays in an Array |   Medium   |     C++     | [View Solution](medium/count-complete-subarrays-in-an-array.md) |
-| 4  | Count Subarrays With Score Less Than K|   Hard   |     C++     | [View Solution](hard/hard/2302-count-subarrays-with-score-less-than-k.md) |
+| 4  | Count Subarrays With Score Less Than K|   Hard   |     C++     | [View Solution](hard/2302-count-subarrays-with-score-less-than-k.md) |
 
 ---
 
