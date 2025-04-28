@@ -39,8 +39,8 @@ count += right - left + 1
 
 ## 🔍 Complexity
 
-- **Time:** O(n) for the constructor and O(1) for the function sumRange (due to prefix sum Array)
-- **Space:** O(n) as we have to create a new array for the sum prefix
+- **Time:** O(n) As we just use one loop
+- **Space:** O(1) As we just create variables independent to the array size
 
 ---
 
