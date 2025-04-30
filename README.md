@@ -12,7 +12,8 @@ This repository contains my solutions to [LeetCode](https://leetcode.com/) probl
 | 2  | Range Sum Query - Immutable          |    Easy    |     C++     | [View Solution](easy/303-range-sum-query-immutable.md) |
 | 3  | Count Complete Subarrays in an Array |   Medium   |     C++     | [View Solution](medium/count-complete-subarrays-in-an-array.md) |
 | 4  | Container With Most Water            |   Medium   |     C++     | [View Solution](medium/11-container-with-most-water.md) |
-| 5  | Count Subarrays With Score Less Than K|   Hard   |     C++     | [View Solution](hard/2302-count-subarrays-with-score-less-than-k.md) |
+| 5  | Count Subarrays Where Max Element Appears at Least K Times|   Medium   |     C++     | [View Solution](medium/2962_count_subarrays_where_max_element_appears_at_Least_K_times.md) |
+| 6  | Count Subarrays With Score Less Than K|   Hard   |     C++     | [View Solution](hard/2302-count-subarrays-with-score-less-than-k.md) |
 
 ---
 
